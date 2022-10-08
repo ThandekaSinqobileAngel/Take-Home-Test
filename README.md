@@ -11,4 +11,8 @@ This program takes a numeral (just digits without separators
 (e.g. 19093 instead of 19,093) and returns the standard way of 
 reading a number.
 
+## Section D
+### Loom Link
+https://www.loom.com/share/b5b26c23b0a24de48f04f61ec3f42a9e
+
 
